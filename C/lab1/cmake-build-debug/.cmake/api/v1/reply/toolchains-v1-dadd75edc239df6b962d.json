@@ -1,0 +1,72 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "Clang",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/Programm/msys2/mingw64/lib/clang/19/include",
+						"D:/Programm/msys2/mingw64/include"
+					],
+					"linkDirectories" : 
+					[
+						"D:/Programm/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0",
+						"D:/Programm/msys2/mingw64/x86_64-w64-mingw32/lib",
+						"D:/Programm/msys2/mingw64/x86_64-w64-mingw32/mingw/lib",
+						"D:/Programm/msys2/mingw64/lib",
+						"D:/Programm/msys2/mingw64/lib/clang/19/lib/windows"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "D:/Programm/msys2/mingw64/bin/clang.exe",
+				"version" : "19.1.7"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "D:/Programm/msys2/mingw64/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
