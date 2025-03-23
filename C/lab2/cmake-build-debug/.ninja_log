@@ -1,0 +1,6 @@
+# ninja log v5
+2	72	7643826032621426	CMakeFiles/lab2.dir/main.c.obj	1450ef9e26ee5ca5
+4	74	7643826032641496	CMakeFiles/lab2.dir/CrossCorrelation.c.obj	dd40569847f96818
+3	74	7643826032641496	CMakeFiles/lab2.dir/BufferSamples.c.obj	b86ad9ac6a239b92
+0	118	7643826033092675	CMakeFiles/lab2.dir/Decode.c.obj	ccd8c9e759c73c45
+119	244	7643826034326369	lab2.exe	7a162258ba02a1cd
