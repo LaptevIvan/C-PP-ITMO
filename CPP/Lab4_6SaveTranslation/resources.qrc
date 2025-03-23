@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file>img/brownFlag.png</file>
+    <file>img/greenNeighbour.png</file>
+     <file>img/redMine.png</file>
+      <file>img/yellowMine.png</file>
+    <!-- Добавьте остальные изображения здесь -->
+  </qresource>
+</RCC>
